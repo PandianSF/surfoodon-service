@@ -80,7 +80,6 @@ ponpandian94@gmail.com`,
       });
     }
   });
-  //setTimeout(mailTransporter.sendMail(genDetails), 5000);
 });
 
 app.post("/donateFood", (req, res) => {
